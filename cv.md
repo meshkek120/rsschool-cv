@@ -15,7 +15,6 @@ Now that I see this, I would like to be in the role of a software engineer.
 * **CSS3**
 * **JavaScript**
 * **Git, GitHub**
-* **HTML**
 ## Code example:
 ```js
 function capitalizeWord(word) {
