@@ -1,4 +1,5 @@
 # Mikhail Douzhyk
+![myphoto](images/photo.jpg "My photo")
 ## Contacts:
 * **Location:** Tbilisi, Georgia
 * **Phone:** +995 595-11-39-26
@@ -28,7 +29,7 @@ function capitalizeWord(word) {
 ```
 ## Work experience:
 * **Project management software Support and CSM**
-* **CV Markdown Project**
+* [**CV Markdown Project**](https://github.com/meshkek120/rsschool-cv/blob/gh-pages/cv.md "CV Markdown Project on GitHub")
 ## Education and courses:
 * **BSUIR, Faculty of Infocommunications, 2017**
 * **Javascript and CSS/HTML courses on YouTube and Udemy**
