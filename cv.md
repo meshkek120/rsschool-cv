@@ -1,4 +1,4 @@
-# Mikhail Douzhuk
+# Mikhail Douzhyk
 ## Contacts:
 ## About me:
 ## Skills:
