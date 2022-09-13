@@ -1,1 +1,1 @@
-# rsschool-cv
+https://meshkek120.github.io/rsschool-cv/
