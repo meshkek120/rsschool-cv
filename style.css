@@ -1,0 +1,9 @@
+.container {
+margin: 0 10%;
+}
+.myphoto {
+    width: 150px;
+}
+hr {
+    color: rgba(0, 0, 0, 0.2);
+}
